@@ -1,2 +1,5 @@
 checking how conflict works
+
 change of branch 1
+change of branch 2
+
