@@ -1,1 +1,2 @@
 checking how conflict works
+change of branch 1
